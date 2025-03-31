@@ -16,7 +16,7 @@ The main objectives of this project are:
 ## Features
 
 - **Customizable Links:** Organized table of links to various websites categorized by topics such as Education, Programming, Career, etc.
-- **Dark Mode Toggle:** A toggle button to switch between light and dark modes, with the preference saved using `localStorage` for persistence.
+- **Dark Mode Toggle:** A toggle button to switch between light and dark modes, with the preference saved for persistence.
 - **Responsive Design:** The layout adjusts to different screen sizes for optimal viewing on various devices.
 - **Interactive Elements:** Hover effects on images and links enhance user experience.
 
@@ -25,25 +25,7 @@ The main objectives of this project are:
 - **HTML5:** For structuring the content of the webpage.
 - **CSS3:** For styling and layout, including custom variables for theme colors and responsive design techniques.
 - **JavaScript:** For interactivity, such as the dark mode toggle and storing user preferences.
-
-## Installation
-
-1. **Clone or Download the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/custom-homepage.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd custom-homepage
-   ```
-
-3. **Open the `index.html` File:**
-
-   - Double-click the `index.html` file to open it in your default web browser.
-   - Alternatively, right-click the file and choose your preferred browser.
+- **GitHub Pages:** Hosting the website for public accessibility.
 
 ## Usage
 
@@ -58,8 +40,6 @@ The main objectives of this project are:
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/4943cda0-fc29-4f75-85a2-cb4b29e446a3)
 ![image](https://github.com/user-attachments/assets/3f3d1d6f-32fa-42a3-9d3c-84006c732229)
-
-
 
 ## Disclaimer
 
@@ -81,7 +61,3 @@ The main objectives of this project are:
   - [ChatGPT](https://chatgpt.com/) for code generation, including this markdown.
 - **Inspiration:**
   - Personal need for a centralized homepage with quick access to frequently visited sites.
-
----
-
-*This README was generated to provide an overview of the Custom Homepage project, its features, and usage guidelines. It is meant to inform users about the project's purpose and how to utilize it effectively.*
