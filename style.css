@@ -1,14 +1,20 @@
 :root {
-	--background-color: #263238;
-	--text-color: #ddd;
-	--link-color: #90A4AE;
-	--hover-link-color: purple;
-	--active-link-color: red;
+	/* Dark mode (default) */
+	--background-color: #363644;
+	--text-color: #EAEAEA;
+	--link-color: #82AAFF;
+	--hover-link-color: #C792EA;
+	--active-link-color: #FF5370;
 }
 
+
 body.light-mode {
-	--background-color: #ddd;
-	--text-color: #333;
+	/* Light mode */
+	--background-color: #d3d3d3;
+	--text-color: #2B2B2B;
+	--link-color: #1565C0;
+	--hover-link-color: #6A1B9A;
+	--active-link-color: #D32F2F;
 }
 
 body {
