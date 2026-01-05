@@ -1,0 +1,8 @@
+https://make.powerapps.com/environments/Default-8b793201-bed7-4ad0-b265-3e6b41c2f5b7/home
+https://engage.cloud.microsoft/main/feed
+https://copilotstudio.microsoft.com/environments/Default-8b793201-bed7-4ad0-b265-3e6b41c2f5b7/home
+https://admin.powerplatform.microsoft.com/home
+https://make.powerautomate.com/environments/Default-8b793201-bed7-4ad0-b265-3e6b41c2f5b7/home
+https://app.powerbi.com/home?experience=power-bi
+https://make.powerpages.microsoft.com/environments/Default-8b793201-bed7-4ad0-b265-3e6b41c2f5b7/portals/home
+https://m365.cloud.microsoft/apps/?auth=2&home=1
